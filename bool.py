@@ -1,0 +1,15 @@
+i=True
+print(i)
+i=False
+print(i)
+print(True and True)
+print(False and True)
+print(1==1 and 2==2)
+print("Hello"=="Hello")
+print(1==1 or 2!=1)
+print(1 != 0 and 2 == 1)
+print(not (True and False))
+print(not (1 == 1 and 0 != 1))
+print(not ("test" == "test" and "Hello" == "Hi"))
+print(1 == 1 and (not ("test" == 1 or 1 == 0)))
+print("a1" == "b1" and (not (3 == 4 or 3 == 3)))
